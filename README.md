@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with github-profile-readme-generator
 - 💬 Ask me about C,C++,Html,Css or Any tech related stuff
-- 📫 How to reach me: Twitter - DeepakKarnani08
+- 📫 How to reach me: Email: karnanidpk@gmail.com Twitter - @DeepakKarnani08 
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spending most of my time in creativity
 - 😊 Hobbies: Dancing
