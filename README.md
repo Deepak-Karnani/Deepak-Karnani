@@ -1,6 +1,6 @@
 ### Hola, I'm Deepak karnani  👋
 
-- 🔭 I’m currently working on Html,Css,C,C++,Python
+- 🔭 I’m currently working on Html,Css,JavaScript,ReactJs,Tailwind CSS,C,C++,Python,Java
 - 🌱 I’m currently learning Data Structures, Algorithms, Mern Stack
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with github-profile-readme-generator
